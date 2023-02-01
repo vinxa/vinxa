@@ -1,4 +1,8 @@
-### Hi there 👋
+### hi
+
+##### am gabby
+
+##### sorry my stuff is private
 
 <!--
 **vinxa/vinxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
