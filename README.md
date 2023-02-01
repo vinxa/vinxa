@@ -9,7 +9,7 @@ this acc is mostly just my uni work ∴ *private*
 
  --
 
-python, js, java
+python, sql, js, java
 
 geospatial
 
