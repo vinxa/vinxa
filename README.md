@@ -16,7 +16,7 @@ geospatial
 
 --
 
-australia based
+australia
 
 english (N), portuguese (B2), japanese (N3)
 
