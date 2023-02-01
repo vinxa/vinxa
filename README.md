@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/vinxa/vinxa/blob/main/octocat-1675225457197.png?raw=true">
+<img align="right" width="400" height="400" src="https://github.com/vinxa/vinxa/blob/main/octocat-1675235608595.png?raw=true">
 
 ### 
 
@@ -20,9 +20,6 @@ australia
 
 english (N), portuguese (B2), japanese (N3)
 
--- 
-
-pic is me looking at my code
 
 
 
