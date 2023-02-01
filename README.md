@@ -11,7 +11,7 @@ this acc is mostly just my uni work ∴ *private*
 
 python, js, java
 
-geospatial specialist
+geospatial
 
 
 --
