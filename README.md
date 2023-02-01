@@ -1,8 +1,31 @@
+<img align="right" width="400" height="400" src="https://github.com/vinxa/vinxa/blob/main/octocat-1675225457197.png?raw=true">
+
+### 
+
+
 ### hi
 
-##### am gabby
+this acc is mostly just my uni work ∴ *private*
 
-##### sorry my stuff is private
+ --
+
+python, js, java
+
+geospatial specialist
+
+
+--
+
+australia based
+
+english (N), portuguese (B2), japanese (N3)
+
+-- 
+
+pic is me looking at my code
+
+
+
 
 <!--
 **vinxa/vinxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
